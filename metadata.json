@@ -1,0 +1,5 @@
+{
+  "name": "FlavorLens - Intelligent Restaurant Discovery",
+  "description": "An intelligent restaurant and local cuisine recommendation system featuring location-based discovery, taste matching, and authenticity scores.",
+  "requestFramePermissions": ["geolocation"]
+}
